@@ -1,0 +1,14 @@
+                                        ELECTROMA
+******************************************************************************************
+HomeAppliances Product(s)
+
+Product Name                            Price                         Price
+LG Refrigerator,260L                    Rs.45000                      45,000
+
+Total HomeAppliances Price : Rs.45000
+******************************************************************************************
+
+Total Price(before discount) = Rs.45000
+Coupon Applied : 15% Off upto Rs.10000
+Discount Offered : Rs.6750.0
+Total Price(after discount) = Rs.38250.0

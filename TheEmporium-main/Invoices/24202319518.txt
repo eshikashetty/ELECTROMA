@@ -1,0 +1,41 @@
+                                        The Emporium
+******************************************************************************************
+HomeAppliances Product(s)
+
+Product Name                            Price                         Price
+Samsung Washing Machine 8kg             Rs.21500                      21500
+
+Total HomeAppliances Price : Rs.21500
+******************************************************************************************
+Televisions Product(s)
+
+Product Name                            Price                         Colour
+Samsung QN90A Neo QLED TV               Rs.34,650                     Interstellar Black
+
+Total Televisions Price : Rs.34650
+******************************************************************************************
+Camera and accessories(s)
+
+Product Name                            Price
+GoPro Hero11 Black                       Rs.34,160
+
+Total Camera and accessories Price : Rs.34160
+******************************************************************************************
+Computerandtablets Product(s)
+
+Product Name                            Price
+HP Pavillion                            Rs.34,999
+
+Total Computerandtablets Price : Rs.34999
+******************************************************************************************
+mobile(s)
+
+Product Name                            Price
+Vivo Y21                                Rs.24,990
+
+Total mobile Price : Rs.24990
+******************************************************************************************
+Total Price(before discount) = Rs.150299
+Coupon Applied : 15% Off upto Rs.10000
+Discount Offered : Rs.22544.85
+Total Price(after discount) = Rs.127754.15

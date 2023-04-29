@@ -1,0 +1,15 @@
+                                        ELECTROMA
+******************************************************************************************
+Televisions Product(s)
+
+Product Name                            Price                         Colour
+Samsung QN90A Neo QLED TV                        Rs.34,650                     Glacier White
+Sony Bravia X90J Series TV                          Rs.34,4499                    Black
+
+Total Televisions Price : Rs.69149
+******************************************************************************************
+
+Total Price(before discount) = Rs.69149
+Coupon Applied : 10% Off upto Rs.25000
+Discount Offered : Rs.6914.900000000001
+Total Price(after discount) = Rs.62234.1

@@ -1,0 +1,13 @@
+                                        The Emporium
+******************************************************************************************
+mobile(s)
+
+Product Name                            Price
+Whirlpool Top Load                      Rs.14,990
+
+Total mobile Price : Rs.14990
+******************************************************************************************
+Total Price(before discount) = Rs.14990
+Coupon Applied : 5% Off upto Rs.5000
+Discount Offered : Rs.749.5
+Total Price(after discount) = Rs.14240.5

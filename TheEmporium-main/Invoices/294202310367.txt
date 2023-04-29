@@ -1,0 +1,14 @@
+                                        ELECTROMA
+******************************************************************************************
+Televisions Product(s)
+
+Product Name                            Price                         Colour
+LG OLED C1 Series TV                           Rs.42,999                     Aquamarine Green
+
+Total Televisions Price : Rs.42999
+******************************************************************************************
+
+Total Price(before discount) = Rs.42999
+Coupon Applied : 5% Off upto Rs.5000
+Discount Offered : Rs.2149.9500000000003
+Total Price(after discount) = Rs.40849.05

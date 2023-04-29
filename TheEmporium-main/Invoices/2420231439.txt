@@ -1,0 +1,13 @@
+                                        The Emporium
+******************************************************************************************
+mobile(s)
+
+Product Name                            Price
+Vivo Y21                      Rs.24,990
+
+Total mobile Price : Rs.24990
+******************************************************************************************
+Total Price(before discount) = Rs.24990
+Coupon Applied : 15% Off upto Rs.10000
+Discount Offered : Rs.3748.5
+Total Price(after discount) = Rs.21241.5

@@ -1,0 +1,1 @@
+p.Image.open("Images\audio_1.jpeg")

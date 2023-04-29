@@ -1,0 +1,17 @@
+                                        The Emporium
+******************************************************************************************
+HomeAppliances Product(s)
+
+Product Name                            Price                         Price
+LG Refrigerator,260L                    Rs.45000                      45,000
+LG Refrigerator,260L                    Rs.45000                      45,000
+Aquagard neo UF+UV,6.2 L                Rs.5000                       5000
+Aquagard neo UF+UV,6.2 L                Rs.5000                       5000
+
+Total HomeAppliances Price : Rs.100000
+******************************************************************************************
+
+Total Price(before discount) = Rs.100000
+Coupon Applied : 15% Off upto Rs.10000
+Discount Offered : Rs.15000.0
+Total Price(after discount) = Rs.85000.0

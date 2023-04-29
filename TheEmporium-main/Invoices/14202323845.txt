@@ -1,0 +1,20 @@
+                                        The Emporium
+******************************************************************************************
+Televisions Product(s)
+
+Product Name                            Price                         Colour
+Samsung QN90A Neo QLED TV               Rs.34,650                     Interstellar Black
+
+Total Televisions Price : Rs.34650
+******************************************************************************************
+mobile(s)
+
+Product Name                            Price
+Vivo Y21                                Rs.24,990
+
+Total mobile Price : Rs.24990
+******************************************************************************************
+Total Price(before discount) = Rs.59640
+Coupon Applied : 15% Off upto Rs.10000
+Discount Offered : Rs.8946.0
+Total Price(after discount) = Rs.50694.0
